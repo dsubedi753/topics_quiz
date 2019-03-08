@@ -9,11 +9,6 @@ twist.linear.x = 1
 twist.angular.z = 0
 
 
-def movef():
-
-    True
-
-
 def turnl():
     twist.angular.z = 1
     twist.linear.x = 0
